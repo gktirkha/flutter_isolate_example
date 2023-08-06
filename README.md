@@ -1,3 +1,3 @@
-# isolates_example
+# Flutter Isolates Example
 
-A new Flutter project.
+flutter project demonstrating flutter isolates
